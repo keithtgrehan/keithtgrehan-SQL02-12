@@ -1,0 +1,6 @@
+jupyterlab==3.5.0
+pandas==1.5.1
+duckdb==0.5.1
+ipython-sql==0.4.1
+SQLAlchemy==1.4.42
+duckdb-engine==0.6.4
